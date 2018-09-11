@@ -1,0 +1,41 @@
+body {
+    background-image: url("achtergrond.jpg");
+}
+img {
+	border: 2px solid black;    
+}
+
+img.left{
+	float: left;
+	margin-right: 10px;
+	
+}
+
+img.right{
+	float: right;
+	margin-left: 10px
+	
+}
+
+h1 {
+    font-size: 40px;
+   }
+
+p {
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
