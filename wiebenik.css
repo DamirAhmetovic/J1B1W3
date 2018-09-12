@@ -1,6 +1,36 @@
 h1 {
     font-size: 70px;
 }
+
 p {
 	font-size: 30px;
 }
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+   
+img {
+	float: right;
+}
+
+body{ background-image: url("achtergrond.jpg")
+}
+
+img {
+	border: 5px solid white;    
+}
+   
